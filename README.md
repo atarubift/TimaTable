@@ -1,3 +1,6 @@
 # TimaTable
 
-This app is a schedule management tool for yourself.
+FUNの課題で作成したスケジューラーです。
+各機能ごとにファイルが分かれています。
+時間割は個人で変更してご利用ください。
+
